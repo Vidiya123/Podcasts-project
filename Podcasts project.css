@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-img {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 200px;
+    width: 100vw;
+    background-size: cover;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+.bg-container {
+    width: 100vw;
+    background-color: white;
+}
+
+.heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.img-size {
+    height: 100px;
+    width: 150px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.img-heading {
+    color: #151765;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.img-sub-para {
+    color: #5a7184;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+
+.img-card {
+    height: 160px;
+    width: 180px;
+    font-family: "Roboto";
+    text-align: center;
+    margin: 10px;
+}
+
+.bottom-card1 {
+    padding: 10px;
+    text-align: center;
+}
+
+.puri-page {
+    width: 100vw;
+    padding: 10px;
+    background-color: white;
+}
+
+.puri-page-top-card {
+
+    text-align: left;
+    color: #ffffff;
+    padding: 18px;
+    background-color: #151765;
+}
+
+.podcast-para {
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.podcast-heading {
+    font-size: 18px;
+}
+
+.text-card {
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.podcast-img {
+    border-radius: 10px;
+    height: 100px;
+    width: 120px;
+
+}
+
+.podcast-bottom-card {
+    font-family: "Roboto";
+    margin: 10px;
+}
+
+.podcast-bottom-card-heading {
+    font-size: 20px;
+    font-weight: bold;
+    color: #151765;
+}
+
+.podcast-bottom-card-para {
+    font-size: 12px;
+    font-weight: bold;
+    color: #5a7184;
+}
+
+.podcast-bottom-card-time {
+    font-size: 10px;
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.but {
+    background-color: #151765;
+    color: #ffffff;
+    border-radius: 20px;
+    width: 80px;
+}
+
+.but-right {
+    text-align: right;
+}
